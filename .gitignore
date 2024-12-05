@@ -1,0 +1,22 @@
+input.txt
+
+# zig
+.zig-cache/
+zig-cache/
+zig-out/
+*.zig.cache
+
+# rust
+target/
+Cargo.lock
+
+# python
+__pycache__/
+*.pyc
+
+# c
+*.o
+*.out
+
+# bin
+*main
